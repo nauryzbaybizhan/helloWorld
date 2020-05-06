@@ -1,0 +1,2 @@
+INSERT INTO WORD
+VALUES (1, 'Hello World!');

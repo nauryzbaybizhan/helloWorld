@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS `WORD`;
+
+CREATE TABLE `WORD`(
+  `id`         INTEGER PRIMARY KEY,
+  `text`       VARCHAR(100) NOT NULL
+);
